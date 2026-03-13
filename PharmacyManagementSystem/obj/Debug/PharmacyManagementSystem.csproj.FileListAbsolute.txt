@@ -1,0 +1,7 @@
+D:\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.exe.config
+D:\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.exe
+D:\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.pdb
+D:\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.AssemblyReference.cache
+D:\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.CoreCompileInputs.cache
+D:\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.exe
+D:\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.pdb

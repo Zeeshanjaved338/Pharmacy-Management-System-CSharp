@@ -1,0 +1,3 @@
+admin@gmail.com admin123 Admin
+pharma@gmail.com pharma123 Pharmacist
+ali@gmail.com ali123 Customer

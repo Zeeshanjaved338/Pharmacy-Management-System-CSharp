@@ -1,24 +1,42 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace PharmacyManagementSystem.BL
+﻿namespace PharmacyManagementSystem.BL
 {
     public class CustomerBL
     {
-        public string Username { get; set; }
-        public string Password { get; set; }
-        public string FullName { get; set; }
-        public string ContactNo { get; set; }
+        private string username;
+        private string password;
+        private string fullName;
+        private string contactNo;
+
+        public string Username
+        {
+            get { return username; }
+            set { username = value; }
+        }
+
+        public string Password
+        {
+            get { return password; }
+            set { password = value; }
+        }
+
+        public string FullName
+        {
+            get { return fullName; }
+            set { fullName = value; }
+        }
+
+        public string ContactNo
+        {
+            get { return contactNo; }
+            set { contactNo = value; }
+        }
 
         public CustomerBL(string username, string password, string fullName, string contactNo)
         {
-            Username = username;
-            Password = password;
-            FullName = fullName;
-            ContactNo = contactNo;
+            this.username = username;
+            this.password = password;
+            this.fullName = fullName;
+            this.contactNo = contactNo;
         }
     }
 }

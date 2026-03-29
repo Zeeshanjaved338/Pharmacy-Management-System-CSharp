@@ -1,23 +1,51 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Collections.Generic;
 
 namespace PharmacyManagementSystem.BL
 {
     public class OrderBL
     {
-        public int ReceiptNo { get; set; }
-        public string Username { get; set; }
-        public string CustomerName { get; set; }
-        public string Date { get; set; }
-        public int TotalItems { get; set; }
-        public List<(int MedId, int Quantity)> Cart { get; set; }
+        private int receiptNo;
+        private string username;
+        private string customerName;
+        private string date;
+        private int totalItems;
+
+        public int ReceiptNo
+        {
+            get { return receiptNo; }
+            set { receiptNo = value; }
+        }
+
+        public string Username
+        {
+            get { return username; }
+            set { username = value; }
+        }
+
+        public string CustomerName
+        {
+            get { return customerName; }
+            set { customerName = value; }
+        }
+
+        public string Date
+        {
+            get { return date; }
+            set { date = value; }
+        }
+
+        public int TotalItems
+        {
+            get { return totalItems; }
+            set { totalItems = value; }
+        }
+
+
+        public List<CartItem> Cart { get; set; }
 
         public OrderBL()
         {
-            Cart = new List<(int, int)>();
+            Cart = new List<CartItem>();
         }
 
         public int GetTotal(List<Medicine> medList)

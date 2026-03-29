@@ -3,52 +3,56 @@
   "WorkspaceRootPath": "D:\\PharmacyManagementSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AFA66072-7378-4613-B41D-50E256B867F6}|PharmacyManagementSystem\\PharmacyManagementSystem.csproj|d:\\pharmacymanagementsystem\\pharmacymanagementsystem\\ui\\customerui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AFA66072-7378-4613-B41D-50E256B867F6}|PharmacyManagementSystem\\PharmacyManagementSystem.csproj|solutionrelative:pharmacymanagementsystem\\ui\\customerui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\PharmacyManagementSystem\\PharmacyManagementSystem\\DL\\UserDL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PharmacyManagementSystem\\DL\\UserDL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AFA66072-7378-4613-B41D-50E256B867F6}|PharmacyManagementSystem\\PharmacyManagementSystem.csproj|d:\\pharmacymanagementsystem\\pharmacymanagementsystem\\ui\\adminui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AFA66072-7378-4613-B41D-50E256B867F6}|PharmacyManagementSystem\\PharmacyManagementSystem.csproj|solutionrelative:pharmacymanagementsystem\\ui\\adminui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\PharmacyManagementSystem\\PharmacyManagementSystem\\BL\\MUserBL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PharmacyManagementSystem\\BL\\MUserBL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AFA66072-7378-4613-B41D-50E256B867F6}|PharmacyManagementSystem\\PharmacyManagementSystem.csproj|d:\\pharmacymanagementsystem\\pharmacymanagementsystem\\ui\\userui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AFA66072-7378-4613-B41D-50E256B867F6}|PharmacyManagementSystem\\PharmacyManagementSystem.csproj|solutionrelative:pharmacymanagementsystem\\ui\\userui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\PharmacyManagementSystem\\PharmacyManagementSystem\\DL\\CustomerDL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PharmacyManagementSystem\\DL\\CustomerDL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AFA66072-7378-4613-B41D-50E256B867F6}|PharmacyManagementSystem\\PharmacyManagementSystem.csproj|d:\\pharmacymanagementsystem\\pharmacymanagementsystem\\ui\\pharmacistui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AFA66072-7378-4613-B41D-50E256B867F6}|PharmacyManagementSystem\\PharmacyManagementSystem.csproj|solutionrelative:pharmacymanagementsystem\\ui\\pharmacistui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\PharmacyManagementSystem\\PharmacyManagementSystem\\UI\\AdminUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PharmacyManagementSystem\\UI\\AdminUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AFA66072-7378-4613-B41D-50E256B867F6}|PharmacyManagementSystem\\PharmacyManagementSystem.csproj|d:\\pharmacymanagementsystem\\pharmacymanagementsystem\\dl\\orderdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AFA66072-7378-4613-B41D-50E256B867F6}|PharmacyManagementSystem\\PharmacyManagementSystem.csproj|solutionrelative:pharmacymanagementsystem\\dl\\orderdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\PharmacyManagementSystem\\PharmacyManagementSystem\\UI\\CustomerUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PharmacyManagementSystem\\UI\\CustomerUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AFA66072-7378-4613-B41D-50E256B867F6}|PharmacyManagementSystem\\PharmacyManagementSystem.csproj|d:\\pharmacymanagementsystem\\pharmacymanagementsystem\\bl\\orderbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AFA66072-7378-4613-B41D-50E256B867F6}|PharmacyManagementSystem\\PharmacyManagementSystem.csproj|solutionrelative:pharmacymanagementsystem\\bl\\orderbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\PharmacyManagementSystem\\PharmacyManagementSystem\\DL\\OrderDL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PharmacyManagementSystem\\DL\\OrderDL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AFA66072-7378-4613-B41D-50E256B867F6}|PharmacyManagementSystem\\PharmacyManagementSystem.csproj|d:\\pharmacymanagementsystem\\pharmacymanagementsystem\\bl\\muserbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AFA66072-7378-4613-B41D-50E256B867F6}|PharmacyManagementSystem\\PharmacyManagementSystem.csproj|solutionrelative:pharmacymanagementsystem\\bl\\muserbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\PharmacyManagementSystem\\PharmacyManagementSystem\\BL\\MedicineBL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PharmacyManagementSystem\\BL\\MedicineBL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AFA66072-7378-4613-B41D-50E256B867F6}|PharmacyManagementSystem\\PharmacyManagementSystem.csproj|d:\\pharmacymanagementsystem\\pharmacymanagementsystem\\bl\\medicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AFA66072-7378-4613-B41D-50E256B867F6}|PharmacyManagementSystem\\PharmacyManagementSystem.csproj|solutionrelative:pharmacymanagementsystem\\bl\\medicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\PharmacyManagementSystem\\PharmacyManagementSystem\\BL\\CustomerBL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PharmacyManagementSystem\\BL\\CustomerBL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AFA66072-7378-4613-B41D-50E256B867F6}|PharmacyManagementSystem\\PharmacyManagementSystem.csproj|d:\\pharmacymanagementsystem\\pharmacymanagementsystem\\bl\\customerbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AFA66072-7378-4613-B41D-50E256B867F6}|PharmacyManagementSystem\\PharmacyManagementSystem.csproj|solutionrelative:pharmacymanagementsystem\\bl\\customerbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\PharmacyManagementSystem\\PharmacyManagementSystem\\BL\\OrderBL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PharmacyManagementSystem\\BL\\OrderBL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AFA66072-7378-4613-B41D-50E256B867F6}|PharmacyManagementSystem\\PharmacyManagementSystem.csproj|d:\\pharmacymanagementsystem\\pharmacymanagementsystem\\dl\\customerdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AFA66072-7378-4613-B41D-50E256B867F6}|PharmacyManagementSystem\\PharmacyManagementSystem.csproj|solutionrelative:pharmacymanagementsystem\\dl\\customerdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\PharmacyManagementSystem\\PharmacyManagementSystem\\BL\\CartItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PharmacyManagementSystem\\BL\\CartItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AFA66072-7378-4613-B41D-50E256B867F6}|PharmacyManagementSystem\\PharmacyManagementSystem.csproj|d:\\pharmacymanagementsystem\\pharmacymanagementsystem\\dl\\userdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AFA66072-7378-4613-B41D-50E256B867F6}|PharmacyManagementSystem\\PharmacyManagementSystem.csproj|solutionrelative:pharmacymanagementsystem\\dl\\userdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\PharmacyManagementSystem\\PharmacyManagementSystem\\UI\\UserUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PharmacyManagementSystem\\UI\\UserUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AFA66072-7378-4613-B41D-50E256B867F6}|PharmacyManagementSystem\\PharmacyManagementSystem.csproj|d:\\pharmacymanagementsystem\\pharmacymanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AFA66072-7378-4613-B41D-50E256B867F6}|PharmacyManagementSystem\\PharmacyManagementSystem.csproj|solutionrelative:pharmacymanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\PharmacyManagementSystem\\PharmacyManagementSystem\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PharmacyManagementSystem\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\PharmacyManagementSystem\\PharmacyManagementSystem\\UI\\PharmacistUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PharmacyManagementSystem\\UI\\PharmacistUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,149 +62,166 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "CustomerBL.cs",
-              "DocumentMoniker": "D:\\PharmacyManagementSystem\\PharmacyManagementSystem\\BL\\CustomerBL.cs",
-              "RelativeDocumentMoniker": "PharmacyManagementSystem\\BL\\CustomerBL.cs",
-              "ToolTip": "D:\\PharmacyManagementSystem\\PharmacyManagementSystem\\BL\\CustomerBL.cs",
-              "RelativeToolTip": "PharmacyManagementSystem\\BL\\CustomerBL.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAA1wBcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-13T09:49:20.482Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Medicine.cs",
-              "DocumentMoniker": "D:\\PharmacyManagementSystem\\PharmacyManagementSystem\\BL\\Medicine.cs",
-              "RelativeDocumentMoniker": "PharmacyManagementSystem\\BL\\Medicine.cs",
-              "ToolTip": "D:\\PharmacyManagementSystem\\PharmacyManagementSystem\\BL\\Medicine.cs",
-              "RelativeToolTip": "PharmacyManagementSystem\\BL\\Medicine.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-13T09:50:52.489Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "MUserBL.cs",
-              "DocumentMoniker": "D:\\PharmacyManagementSystem\\PharmacyManagementSystem\\BL\\MUserBL.cs",
-              "RelativeDocumentMoniker": "PharmacyManagementSystem\\BL\\MUserBL.cs",
-              "ToolTip": "D:\\PharmacyManagementSystem\\PharmacyManagementSystem\\BL\\MUserBL.cs",
-              "RelativeToolTip": "PharmacyManagementSystem\\BL\\MUserBL.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-13T09:49:38.121Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "OrderBL.cs",
-              "DocumentMoniker": "D:\\PharmacyManagementSystem\\PharmacyManagementSystem\\BL\\OrderBL.cs",
-              "RelativeDocumentMoniker": "PharmacyManagementSystem\\BL\\OrderBL.cs",
-              "ToolTip": "D:\\PharmacyManagementSystem\\PharmacyManagementSystem\\BL\\OrderBL.cs",
-              "RelativeToolTip": "PharmacyManagementSystem\\BL\\OrderBL.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-13T09:50:20.125Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CustomerUI.cs",
-              "DocumentMoniker": "D:\\PharmacyManagementSystem\\PharmacyManagementSystem\\UI\\CustomerUI.cs",
-              "RelativeDocumentMoniker": "PharmacyManagementSystem\\UI\\CustomerUI.cs",
-              "ToolTip": "D:\\PharmacyManagementSystem\\PharmacyManagementSystem\\UI\\CustomerUI.cs*",
-              "RelativeToolTip": "PharmacyManagementSystem\\UI\\CustomerUI.cs*",
-              "ViewState": "AgIAAJkAAAAAAAAAAAAcwIIAAABBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-13T09:55:19.876Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
               "Title": "UserDL.cs",
               "DocumentMoniker": "D:\\PharmacyManagementSystem\\PharmacyManagementSystem\\DL\\UserDL.cs",
               "RelativeDocumentMoniker": "PharmacyManagementSystem\\DL\\UserDL.cs",
               "ToolTip": "D:\\PharmacyManagementSystem\\PharmacyManagementSystem\\DL\\UserDL.cs",
               "RelativeToolTip": "PharmacyManagementSystem\\DL\\UserDL.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwCoAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-13T09:53:46.809Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AdminUI.cs",
-              "DocumentMoniker": "D:\\PharmacyManagementSystem\\PharmacyManagementSystem\\UI\\AdminUI.cs",
-              "RelativeDocumentMoniker": "PharmacyManagementSystem\\UI\\AdminUI.cs",
-              "ToolTip": "D:\\PharmacyManagementSystem\\PharmacyManagementSystem\\UI\\AdminUI.cs",
-              "RelativeToolTip": "PharmacyManagementSystem\\UI\\AdminUI.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAgwDMAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-13T09:54:42.97Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "PharmacistUI.cs",
-              "DocumentMoniker": "D:\\PharmacyManagementSystem\\PharmacyManagementSystem\\UI\\PharmacistUI.cs",
-              "RelativeDocumentMoniker": "PharmacyManagementSystem\\UI\\PharmacistUI.cs",
-              "ToolTip": "D:\\PharmacyManagementSystem\\PharmacyManagementSystem\\UI\\PharmacistUI.cs",
-              "RelativeToolTip": "PharmacyManagementSystem\\UI\\PharmacistUI.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB4AAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-13T09:55:02.257Z",
+              "WhenOpened": "2026-03-29T15:07:45.914Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "UserUI.cs",
-              "DocumentMoniker": "D:\\PharmacyManagementSystem\\PharmacyManagementSystem\\UI\\UserUI.cs",
-              "RelativeDocumentMoniker": "PharmacyManagementSystem\\UI\\UserUI.cs",
-              "ToolTip": "D:\\PharmacyManagementSystem\\PharmacyManagementSystem\\UI\\UserUI.cs",
-              "RelativeToolTip": "PharmacyManagementSystem\\UI\\UserUI.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAABHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-13T09:54:29.981Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
               "Title": "CustomerDL.cs",
               "DocumentMoniker": "D:\\PharmacyManagementSystem\\PharmacyManagementSystem\\DL\\CustomerDL.cs",
               "RelativeDocumentMoniker": "PharmacyManagementSystem\\DL\\CustomerDL.cs",
               "ToolTip": "D:\\PharmacyManagementSystem\\PharmacyManagementSystem\\DL\\CustomerDL.cs",
               "RelativeToolTip": "PharmacyManagementSystem\\DL\\CustomerDL.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-13T09:52:19.551Z",
+              "WhenOpened": "2026-03-29T15:07:23.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "D:\\PharmacyManagementSystem\\PharmacyManagementSystem\\BL\\CartItem.cs",
+              "RelativeDocumentMoniker": "PharmacyManagementSystem\\BL\\CartItem.cs",
+              "ToolTip": "D:\\PharmacyManagementSystem\\PharmacyManagementSystem\\BL\\CartItem.cs",
+              "RelativeToolTip": "PharmacyManagementSystem\\BL\\CartItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T15:01:11.058Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "CustomerUI.cs",
+              "DocumentMoniker": "D:\\PharmacyManagementSystem\\PharmacyManagementSystem\\UI\\CustomerUI.cs",
+              "RelativeDocumentMoniker": "PharmacyManagementSystem\\UI\\CustomerUI.cs",
+              "ToolTip": "D:\\PharmacyManagementSystem\\PharmacyManagementSystem\\UI\\CustomerUI.cs",
+              "RelativeToolTip": "PharmacyManagementSystem\\UI\\CustomerUI.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAuwDsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T14:53:58.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MedicineBL.cs",
+              "DocumentMoniker": "D:\\PharmacyManagementSystem\\PharmacyManagementSystem\\BL\\MedicineBL.cs",
+              "RelativeDocumentMoniker": "PharmacyManagementSystem\\BL\\MedicineBL.cs",
+              "ToolTip": "D:\\PharmacyManagementSystem\\PharmacyManagementSystem\\BL\\MedicineBL.cs",
+              "RelativeToolTip": "PharmacyManagementSystem\\BL\\MedicineBL.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAuwBEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T15:03:10.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MUserBL.cs",
+              "DocumentMoniker": "D:\\PharmacyManagementSystem\\PharmacyManagementSystem\\BL\\MUserBL.cs",
+              "RelativeDocumentMoniker": "PharmacyManagementSystem\\BL\\MUserBL.cs",
+              "ToolTip": "D:\\PharmacyManagementSystem\\PharmacyManagementSystem\\BL\\MUserBL.cs",
+              "RelativeToolTip": "PharmacyManagementSystem\\BL\\MUserBL.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T15:03:37.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomerBL.cs",
+              "DocumentMoniker": "D:\\PharmacyManagementSystem\\PharmacyManagementSystem\\BL\\CustomerBL.cs",
+              "RelativeDocumentMoniker": "PharmacyManagementSystem\\BL\\CustomerBL.cs",
+              "ToolTip": "D:\\PharmacyManagementSystem\\PharmacyManagementSystem\\BL\\CustomerBL.cs",
+              "RelativeToolTip": "PharmacyManagementSystem\\BL\\CustomerBL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T15:00:09.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserUI.cs",
+              "DocumentMoniker": "D:\\PharmacyManagementSystem\\PharmacyManagementSystem\\UI\\UserUI.cs",
+              "RelativeDocumentMoniker": "PharmacyManagementSystem\\UI\\UserUI.cs",
+              "ToolTip": "D:\\PharmacyManagementSystem\\PharmacyManagementSystem\\UI\\UserUI.cs",
+              "RelativeToolTip": "PharmacyManagementSystem\\UI\\UserUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T14:54:00.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminUI.cs",
+              "DocumentMoniker": "D:\\PharmacyManagementSystem\\PharmacyManagementSystem\\UI\\AdminUI.cs",
+              "RelativeDocumentMoniker": "PharmacyManagementSystem\\UI\\AdminUI.cs",
+              "ToolTip": "D:\\PharmacyManagementSystem\\PharmacyManagementSystem\\UI\\AdminUI.cs",
+              "RelativeToolTip": "PharmacyManagementSystem\\UI\\AdminUI.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACMAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T14:53:57.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderBL.cs",
+              "DocumentMoniker": "D:\\PharmacyManagementSystem\\PharmacyManagementSystem\\BL\\OrderBL.cs",
+              "RelativeDocumentMoniker": "PharmacyManagementSystem\\BL\\OrderBL.cs",
+              "ToolTip": "D:\\PharmacyManagementSystem\\PharmacyManagementSystem\\BL\\OrderBL.cs",
+              "RelativeToolTip": "PharmacyManagementSystem\\BL\\OrderBL.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T15:02:00.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "OrderDL.cs",
               "DocumentMoniker": "D:\\PharmacyManagementSystem\\PharmacyManagementSystem\\DL\\OrderDL.cs",
               "RelativeDocumentMoniker": "PharmacyManagementSystem\\DL\\OrderDL.cs",
               "ToolTip": "D:\\PharmacyManagementSystem\\PharmacyManagementSystem\\DL\\OrderDL.cs",
               "RelativeToolTip": "PharmacyManagementSystem\\DL\\OrderDL.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADoAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-13T09:54:00.738Z",
+              "WhenOpened": "2026-03-29T15:04:02.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PharmacistUI.cs",
+              "DocumentMoniker": "D:\\PharmacyManagementSystem\\PharmacyManagementSystem\\UI\\PharmacistUI.cs",
+              "RelativeDocumentMoniker": "PharmacyManagementSystem\\UI\\PharmacistUI.cs",
+              "ToolTip": "D:\\PharmacyManagementSystem\\PharmacyManagementSystem\\UI\\PharmacistUI.cs",
+              "RelativeToolTip": "PharmacyManagementSystem\\UI\\PharmacistUI.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAuwCYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T14:53:59.631Z",
               "EditorCaption": ""
             },
             {

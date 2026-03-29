@@ -33,7 +33,7 @@ namespace PharmacyManagementSystem.UI
                     case 1: 
                         CustomerUI.PlaceOrder(MedList); 
                         break;
-                    case 2:
+                    case 2: CustomerUI.PlaceOrder(MedList);
                         CustomerUI.DisplayOrders(); 
                         break;
                     case 3:

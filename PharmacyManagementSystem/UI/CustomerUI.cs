@@ -72,7 +72,7 @@ namespace PharmacyManagementSystem.UI
             {
                 Console.WriteLine($"Select Med ID (1-10) for item {i + 1}: "); int id = int.Parse(Console.ReadLine());
                 Console.Write("Quantity: "); int qty = int.Parse(Console.ReadLine());
-                o.Cart.Add((id, qty));
+                o.Cart.Add(new CartItem(id, qty));
             }
 
             OrderDL.SaveOrder(o);

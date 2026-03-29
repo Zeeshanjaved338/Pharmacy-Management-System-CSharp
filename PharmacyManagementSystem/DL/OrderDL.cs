@@ -28,7 +28,7 @@ namespace PharmacyManagementSystem.DL
                     for (int i = 0; i < o.TotalItems; i++)
                     {
                         var cartParts = parts[5 + i].Split(',');
-                        o.Cart.Add((int.Parse(cartParts[0]), int.Parse(cartParts[1])));
+                        o.Cart.Add(new CartItem(int.Parse(cartParts[0]), int.Parse(cartParts[1])));
                     }
                     Orders.Add(o);
                 }
